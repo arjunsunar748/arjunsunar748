@@ -12,7 +12,7 @@
 
 # 💫 About Me
 
-🎓 Computer Engineering Student (3rd Year)
+🎓 Computer Engineer
 
 🤖 Passionate about Artificial Intelligence & Machine Learning
 
