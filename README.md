@@ -174,7 +174,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/arjunsunar748/arjunsunar748/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/arjunsunar748/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
