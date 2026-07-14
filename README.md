@@ -163,8 +163,8 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=arjunsunar748&theme=onedark"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=arjunsunar748&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
