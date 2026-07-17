@@ -144,7 +144,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunsunar748&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://YOUR-VERCEL-APP.vercel.app/api?username=arjunsunar748" />
 
 </p>
 
