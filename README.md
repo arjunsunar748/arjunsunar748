@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Arjun+Sunar;AI+%7C+Machine+Learning+Engineer;Computer+Vision+Developer;Data+Science+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Things+🚀" />
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFrbnE1MjdjY2k2ODJybzM5YWFtdzI2Y3J4cDBkYm1nOHJ4aGtvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="350">
+
 
 </div>
 
